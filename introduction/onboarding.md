@@ -1,11 +1,8 @@
 # CHESS Summer Student Onboarding
-Welcome to the CHESS Summer Program! This guide outlines the required steps and resources to help ensure a smooth onboarding process for all students.
+Welcome to the CHESS Summer Program! This guide outlines the required steps and resources to help ensure a smooth onboarding process for all students!
 
-✅ Account Setup
-
-CLASSE IDs and BeamPASS logins are created by the IT group before students arrive.
-Make sure you can log in to both systems prior to your first day.
-
+## ✅ Account Setup
+CLASSE IDs and BeamPASS logins are created by the IT group before students arrive. Make sure you can log in to both systems prior to your first day.
 
 📅 CHESS User Meeting
 
