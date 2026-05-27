@@ -44,7 +44,7 @@ Explore project tracks for the summer school:
   - Dataset Provided
 
 
-- Project 2 — Agentic AI
+- Project 2 — Agentic AI XTEC
   - ./project/2026/project2-AgenticAI/README.md
   - Literature: study_materials.md
   - Starter Code Available
