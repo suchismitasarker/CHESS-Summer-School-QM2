@@ -11,7 +11,7 @@ This repository contains:
 - Starter code and datasets
 
 ## Goals
-- Learn AI fundamentals
+- Learn about fundamentals of synchrotron data and AI applications
 - Work on hands-on scientic projects
 
 ```
