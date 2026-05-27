@@ -3,10 +3,6 @@
   <img src="https://github.com/user-attachments/assets/df544dbe-c5f0-4d50-83c0-b30c8b8444e8" width="400" alt="CHESS Summer School Quantum Materials Beamline Logo">
 </p>
 
-<img width="452" height="276" alt="image" src="https://github.com/user-attachments/assets/ce1c8e72-2a37-4ed4-a51d-0d2862d6191d" />
-
-
-
 # CHESS-Summer-School-Quantum Materials Beamline
 The Quantum Materials Beamline Summer School is designed to train participants in developing and implementing new computational code.
 
