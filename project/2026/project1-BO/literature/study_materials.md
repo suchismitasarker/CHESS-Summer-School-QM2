@@ -1,4 +1,4 @@
-# literature
+# Literature
 
 - [ ] 🔗 [On-the-fly closed-loop materials discovery via Bayesian active learning](https://doi.org/10.1038/s41467-020-19597-w)
 - [ ] 🔗 [On-the-fly autonomous control of neutron diffraction via physics-informed Bayesian active learning](https://doi.org/xxxxx)
@@ -10,16 +10,9 @@ Understanding Bayesian optimization and active learning
 - [ ] https://www.miguelgondu.com/blogposts/2023-07-31/intro-to-bo/
 - [ ] https://www.numberanalytics.com/blog/comprehensive-guide-practical-bayesian-optimization-implementation
 - [ ] https://gpttutorpro.com/active-learning-with-python-a-simple-example/
-
-🔬 ✅ Phase Mapping + Active Learning (GitHub)
- phaseGP (very relevant – modern, BO + AL + GP)
- https://github.com/BigChemistry-RobotLab/phaseGP
-✅ What it does:
-Gaussian Process–based phase diagram mapping
-Uses:Active learning, Transfer learning
-
-📌 Key feature:
-https://github.com/usnistgov/hermes
+- [ ] Phase Mapping + Active Learning (GitHub): phaseGP (very relevant – modern, BO + AL + GP)
+      - https://github.com/BigChemistry-RobotLab/phaseGP
+      - https://github.com/usnistgov/hermes
 
 📌 Key idea:
 Chooses next experiment based on maximum uncertainty (entropy) [github.com]
