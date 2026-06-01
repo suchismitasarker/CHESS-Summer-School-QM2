@@ -43,7 +43,6 @@ Explore project tracks for the summer school:
   - Starter Code Available
   - Dataset Provided
 
-
 - Project 2 — Agentic AI XTEC
   - ./project/2026/project2-AgenticAI/README.md
   - Literature: study_materials.md
@@ -56,7 +55,7 @@ Explore project tracks for the summer school:
   - Starter Code
   - Dataset Included
 
-- Project 3 — Deep Learning (DL)
+- Project 4 — Deep Learning (DL)
   - ./project/2026/project3-DL/README.md
   - Literature & Study Materials
   - Starter Code
