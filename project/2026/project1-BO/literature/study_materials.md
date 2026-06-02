@@ -2,7 +2,6 @@
 
 
 Understanding Bayesian optimization and active learning
-- [ ] https://www.physicsx.ai/newsroom/bayesian-optimization-and-active-learning-cookbook
 - [ ] https://www.miguelgondu.com/blogposts/2023-07-31/intro-to-bo/
 - [ ] https://www.numberanalytics.com/blog/comprehensive-guide-practical-bayesian-optimization-implementation
 - [ ] https://gpttutorpro.com/active-learning-with-python-a-simple-example/
