@@ -131,4 +131,4 @@ This project is licensed under the terms of the MIT License.
 See the ./LICENSE file for details.
 
 ## Acknowledgments
-Organized as part of the CHESS Summer School QM2 Program 2026 for NSF AI-MI summer research and CICF Summer rprograms.
+Organized as part of the CHESS Summer School QM2 Program 2026 for NSF AI-MI Summer rprograms.
